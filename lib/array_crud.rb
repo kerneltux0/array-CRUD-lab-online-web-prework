@@ -1,5 +1,6 @@
 def create_an_empty_array
   test_array = []
+  #some comment
 end
 
 def create_an_array
